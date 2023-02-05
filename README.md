@@ -1,2 +1,2 @@
 # Labirint
-fw
+Good game
